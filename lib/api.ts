@@ -1,6 +1,6 @@
 import type { BritannicaDefinitionDto, BritannicaWordOfTheDayDto, MerriamWebsterResultDto } from "./types"
 
-const API_BASE_URL = "https://britannica-clone.onrender.com/api/Dictionary"
+const API_BASE_URL = "https://da.esubalew.et/api/Dictionary"
 
 // Helper function to handle API responses
 async function handleResponse<T>(response: Response): Promise<T> {
