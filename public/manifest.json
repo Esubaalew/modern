@@ -1,0 +1,23 @@
+{
+  "name": "Modern Dictionary",
+  "short_name": "Dictionary",
+  "description": "A modern dictionary app with definitions from Britannica and Merriam-Webster",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' width='192' height='192'%3E%3Crect width='192' height='192' rx='48' fill='%238b5cf6'/%3E%3Cpath d='M48 144v-96A16 16 0 0 1 64 32h80v128H64a16 16 0 0 1 0-32h80' stroke='white' stroke-width='12' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3Cpath d='M80 64h40' stroke='white' stroke-width='8' stroke-linecap='round'/%3E%3Cpath d='M80 96h50' stroke='white' stroke-width='8' stroke-linecap='round'/%3E%3Cpath d='M80 128h40' stroke='white' stroke-width='8' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Crect width='512' height='512' rx='128' fill='%238b5cf6'/%3E%3Cpath d='M128 384v-256A42.5 42.5 0 0 1 170.5 85h213.5v342h-213.5a42.5 42.5 0 0 1 0-85h213.5' stroke='white' stroke-width='32' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3Cpath d='M213.5 170.5h128' stroke='white' stroke-width='24' stroke-linecap='round'/%3E%3Cpath d='M213.5 256h170.5' stroke='white' stroke-width='24' stroke-linecap='round'/%3E%3Cpath d='M213.5 341.5h128' stroke='white' stroke-width='24' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
